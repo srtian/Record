@@ -1,7 +1,7 @@
 # Record
 Daily record
 
-#2022
+# 2022
 ## 9.19 
 ### 读《娱乐至死》
 最近读了娱乐至死，有以下一点体会：技术决定媒介，媒介决定信息传播的方式。信息娱乐化，需要保持对于娱乐的限制，信息源的控制，减少不必要的信息的摄入。
@@ -24,3 +24,11 @@ Daily record
 软件开发的目标不是类型安全、100%的测试覆盖率、流畅的代码逻辑、完善的开发工具、高效的系统、使用最好的编程语言、优雅的 API 设计、快速的反馈循环、编写很棒的代码等等……
 
 软件开发的真正目标只有一个：发布解决客户问题的软件，为客户提供价值。
+
+## 7.25
+How to be a great software engineer? We should know about these topics:
+1. Personal characteristics
+2. Imporoving
+3. Passionate
+4. Open-minded
+5. Data-driven
