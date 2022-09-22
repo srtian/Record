@@ -1,6 +1,3 @@
-# Record
-Daily record
-
 # 2022
 ## 9.19 
 ### 读《娱乐至死》
