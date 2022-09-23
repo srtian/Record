@@ -6,6 +6,9 @@
 ## 9.16
 幸运 = 你做的事情 x 知道的人数
 
+## 9.08
+A great tool is just like a pair of glasses. They help you see the world, not the glasses.
+
 ## 8.21
 如何保持工作时的专注？看到几个很不错的建议：
 1. 关掉所有的推送；
