@@ -33,5 +33,7 @@ How to be a great software engineer? We should know about these topics:
 4. Open-minded
 5. Data-driven
 
+## 7.16
+马斯克最新解读，创新不能类比，第一性原理下的五步流程法：1.让需求不愚蠢；2.删减提炼；3.优化迭代；4.提升效率；5.自动化。
 ## 6.28
 富人思维 = 想尽一切办法【参与】进自己看好的项目或者人
