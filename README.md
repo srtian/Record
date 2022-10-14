@@ -1,8 +1,7 @@
 # 2022
-## 10.11
-the act of breaking a complex problem down into smaller problems, and composing simple solutions to form a complete solution to the complex problem
 
--- 《Composing Software》
+## 10.14
+![image](https://user-images.githubusercontent.com/38072743/195794491-6523639d-da42-45e7-a3d6-ee799115a79b.png)
 
 ## 10.13
 ### 《醉汉的脚步》
@@ -15,7 +14,10 @@ the act of breaking a complex problem down into smaller problems, and composing 
 4．复制“核心认知”，如同每个生命所做的那样；
 
 5．成为一台“强化学习”的机器，加速计划，实现人生算法
+## 10.11
+the act of breaking a complex problem down into smaller problems, and composing simple solutions to form a complete solution to the complex problem
 
+-- 《Composing Software》
 ## 10.10 
 ### 《少有人走的路》
 如何才能通过自律消除人生的痛苦呢？简单地说，所谓自律，就是主动要求自己以积极的态度去承受痛苦，解决问题。自律有四个原则：推迟满足感、承担责任、忠于事实、保持平衡。
