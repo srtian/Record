@@ -1,7 +1,7 @@
 # 2022
 
 ## 10.14
-a short article is about what people are about to die what's they most regrets things:
+a short article is about what people are about to die what's they most regret things:
 ![image](https://user-images.githubusercontent.com/38072743/195794491-6523639d-da42-45e7-a3d6-ee799115a79b.png)
 
 ## 10.13
