@@ -1,4 +1,10 @@
 # 2022
+## 11.07
+Second-order thinking:
+
+Do you know what second-order thinking is? When something happens, we should know the effect of the thing, we should ask ourselves "and then what", and we should think about it more deeply and think more deliberately.
+
+Here's some advice. First of all, we should ask ourselves "and then what". Second, we should consider the effects of events over 10 minutes, 10 days, 10 months, and 10 years.
 ## 10.28
 软件的可观察性有三大支柱：指标、跟踪和日志。
 
