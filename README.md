@@ -1,7 +1,7 @@
 # 2022
 
 ## 11.11
-I have seen an article about English studies written by Wanying. Check out the article for more detail: https://www.yinwang.org/blog-cn/2020/03/06/english-learning-tips and https://www.yinwang.org/blog-cn/2018/11/23/grammar.
+I have seen an article about English studies written by Wanying. You can check out the article for more detail: https://www.yinwang.org/blog-cn/2020/03/06/english-learning-tips and https://www.yinwang.org/blog-cn/2018/11/23/grammar.
 
 It has some advice:
 1. practice using verbs to make sentences, the more the better
