@@ -1,5 +1,15 @@
 # 2022
-## 11.07
+
+## 11.11
+I have seen an article about English studies written by Wanying. Check out the article for more detail: https://www.yinwang.org/blog-cn/2020/03/06/english-learning-tips and https://www.yinwang.org/blog-cn/2018/11/23/grammar.
+
+It has some advice:
+1. practice using verbs to make sentences, the more the better
+2. use the grammar tree to analyze the sentence
+
+![image](https://user-images.githubusercontent.com/38072743/201252850-c7892979-f837-46fd-b5bd-350692c0f5aa.png)
+
+## 11.07.
 Second-order thinking:
 
 Do you know what second-order thinking is? When something happens, we should know the effect of the thing, we should ask ourselves "and then what", and we should think about it more deeply and think more deliberately.
