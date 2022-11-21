@@ -1,5 +1,10 @@
 # 2022
 
+## 11.18
+https://www.reforge.com/blog/how-to-make-career-decisions
+
+Impact = Environment x Skills
+
 ## 11.11
 I have seen an article about English studies written by Wanying. You can check out the article for more detail: https://www.yinwang.org/blog-cn/2020/03/06/english-learning-tips and https://www.yinwang.org/blog-cn/2018/11/23/grammar.
 
