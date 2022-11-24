@@ -1,5 +1,11 @@
 # 2022
 
+## 11.24
+a very interesting example of soild.js: 
+![image](https://user-images.githubusercontent.com/38072743/203690472-f246f5f1-39bd-491a-a3e2-9c45d2da80ce.png)
+
+it's very clear
+
 ## 11.18
 https://www.reforge.com/blog/how-to-make-career-decisions
 
