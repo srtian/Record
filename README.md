@@ -1,5 +1,9 @@
 # 2022
 
+## 11.25
+We should build a system instead of software，and how we build a system?
+![image](https://user-images.githubusercontent.com/38072743/203888905-47b57ff6-d409-45ad-809a-cafba4a0fce5.png)
+ref: https://codewithstyle.info/software-vs-systems/
 ## 11.24
 a very interesting example of soild.js: 
 ![image](https://user-images.githubusercontent.com/38072743/203690472-f246f5f1-39bd-491a-a3e2-9c45d2da80ce.png)
