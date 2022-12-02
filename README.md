@@ -1,5 +1,9 @@
 # 2022
 
+## 12.02
+how to use prvlink?
+![image](https://user-images.githubusercontent.com/38072743/205234531-e76bb719-4a99-435a-bbb1-604a8e9e844a.png)
+
 ## 11.25
 We should build a system instead of software，and how we build a system?
 ![image](https://user-images.githubusercontent.com/38072743/203888905-47b57ff6-d409-45ad-809a-cafba4a0fce5.png)
