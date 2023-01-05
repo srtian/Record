@@ -1,4 +1,19 @@
 # 2022
+## 12.19
+Better than free: https://kk.org/thetechnium/better-than-fre/
+
+When copies are free, you need to sell things which can not be copied.
+
+so what should we do? this essay tell us about eight things better than free:
+
+1. Immediacy
+2. Persionalization
+3. Interoretation
+4. Authenticity
+5. Accessibility
+6. Embodiment
+7. Patronage
+8. Findability
 
 ## 12.02
 how to use prvlink?
