@@ -1,4 +1,8 @@
 # 2023
+## 1.30
+A component should ideally only do one thing. If it ends up growing, it should be decomposed into smaller sub components.
+
+
 ## 1.28
 能够生存下来的物种，并不是那些最强壮的，也不是那些最聪明的，而是那些对变化做出快速反应的。——达尔文《物种起源》
 
