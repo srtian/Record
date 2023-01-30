@@ -2,6 +2,11 @@
 ## 1.30
 A component should ideally only do one thing. If it ends up growing, it should be decomposed into smaller sub components.
 
+Three things should be considered when building a component:
+1. What is the one responsibility of this component? 
+2. What’s the absolute minimum, but complete, representation of its state? 
+3. Where should the state live?
+
 
 ## 1.28
 能够生存下来的物种，并不是那些最强壮的，也不是那些最聪明的，而是那些对变化做出快速反应的。——达尔文《物种起源》
