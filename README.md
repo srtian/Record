@@ -6,6 +6,13 @@
 如何解决悖论？
 1. 了解数据是如何产生的，是否本身就不足以展现全部的面貌
 2. 对于得出的结论，是否还有其他的因素在进行影响
+
+------------------------
+
+I read an article on how to render conditional components. I've done this a lot before, but I'm not as good at TS type as he did
+![image](https://user-images.githubusercontent.com/38072743/216534724-f9af0545-09f7-4491-b707-6e063b95446b.png)
+> https://www.lloydatkinson.net/posts/2022/react-conditional-rendering-with-type-safety-and-exhaustive-checking/
+
 ## 1.30
 A component should ideally only do one thing. If it ends up growing, it should be decomposed into smaller sub components.
 
