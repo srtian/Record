@@ -1,4 +1,11 @@
 # 2023
+## 2.03
+辛普森悖论指的是：数据集分组呈现的趋势与数据集聚合呈现的趋势相反的现象。
+解读数据（或者是观点）的角度和方式不同，都可能产生完全不同的结果。（这让我想起了一句话：掌握解读权，就掌握了具体的权力）
+
+如何解决悖论？
+1. 了解数据是如何产生的，是否本身就不足以展现全部的面貌
+2. 对于得出的结论，是否还有其他的因素在进行影响
 ## 1.30
 A component should ideally only do one thing. If it ends up growing, it should be decomposed into smaller sub components.
 
