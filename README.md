@@ -1,4 +1,11 @@
 # 2023
+## 2.07
+public chain of record something produces can be used for:
+- Fairer voting systems
+- Secure sharing of medical data
+- Personal identity security
+- Recording real estate transactions
+- Gambling
 ## 2.03
 辛普森悖论指的是：数据集分组呈现的趋势与数据集聚合呈现的趋势相反的现象。
 解读数据（或者是观点）的角度和方式不同，都可能产生完全不同的结果。（这让我想起了一句话：掌握解读权，就掌握了具体的权力）
