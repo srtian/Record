@@ -1,4 +1,15 @@
 # 2023
+## 3.14
+[Think Fast, Talk Smart: Communication Techniques](https://www.youtube.com/watch?v=HAnw168huqA)
+1. Acknowledge and embrace anxious feelings when they arise before a speech, and take deep breaths to prevent anxiety from spiraling out of control.
+2. Reframe public speaking as a conversation rather than a performance, and use inclusive language and relaxed body language to engage the audience.
+3. Practice being present in the moment by using techniques such as doing pushups, walking, listening to music, or trying tongue twisters.
+4. Let go of the need to be perfect and improvise instead of stockpiling information.
+5. View things as opportunities rather than threats, and take a "Yes, and..." approach rather than a "No, but..." approach.
+6. Slow down and listen to understand the needs and perspective of the audience.
+7. Use structured responses, such as the "Problem > Solution > Benefit" or "What? So what? Now what?" structure, to keep the audience on track and increase processing fluency.
+8. Practice improvisation to improve spontaneous speaking skills.
+9. Use visual aids and props to enhance the effectiveness of the speech.
 ## 2.25
 这几天看了本：《创造》：https://book.douban.com/subject/36071759/?_dtcc=1
 有几个观点很有收获：
