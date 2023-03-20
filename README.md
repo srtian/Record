@@ -1,4 +1,34 @@
 # 2023
+## 3.20
+前段时间学习了 @左霆 关于 Saas 相关业务的分享，收获颇丰。算是将 who is your buyer? 这一句话映射到了脑海里。下面关于分析的一些总结：
+
+1. 本质上，早期的科技企业和现代的科技企业，在技术设施的依赖上，是一致的：由对硬件的依赖（Oracle、SAP），到现在的云厂商或者服务提供商（Salesforce，Workday）
+2. Saas为什么如此众多？公司本身是复杂的，各部门各司其职，各个Saas对应不同的职能。因此我们是否需要一开始就要有一个大而全的解决方案？并不是，先确定谁是我们的buyer，通过创新，解决他们的问题，然后在进行创新发展，进行扩大（go to market 很重要）
+3. 确定自己的用户是谁（Who is you buyer），并计算他们的购买力。以及我们想要完成的营收规模，营收 = 用户数 * 单位购买价。在这个公式中需要考虑几个事情
+    1. 高的单位购买价，势必会减少用户数，反之亦然。
+    2. 低购买价意味着用户留存会是一个问题（沉默成本小，但也意味着不需要做很定制的事情，基本只需要提供公共方案即可）
+    3. 低购买价的情况下，需要提供自主购买渠道，减少销售团队（ROI的问题）
+4. SaaS 业务很重要的一点在于：who is your buyer? 思考明白这个问题，很多东西都能有答案了
+5. Ending ARR = Starting ARR + ACV - churn
+    1. Better version: Ending ARR = Starting ARR + (ACV from install base - Churn) (ACB from new logos)
+6. 增涨策略：
+  - Acquire you initial set of customers
+  - reduce your churn rate
+  - expand your sales team
+  - Increase value though upsells and cross-sells
+  - Launch into a new segment
+  - Go international
+  - Maximize growth opportunities through acquisitions
+  - Optimize your pricing & packaging
+8. 流失分为两种：
+    1. initial churn
+    2. Long term churn
+9. Pricing Strategies
+  - Choosing the variable unit 
+  - Licensed in advanced VS Tracked in arrears
+  - adding a fixed component
+  - Consumption models: when and how to use 
+
 ## 3.14
 [Think Fast, Talk Smart: Communication Techniques](https://www.youtube.com/watch?v=HAnw168huqA)
 1. Acknowledge and embrace anxious feelings when they arise before a speech, and take deep breaths to prevent anxiety from spiraling out of control.
