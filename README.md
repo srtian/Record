@@ -5,6 +5,10 @@
 
 编程语言这东西，学习的时候会记住很多 API 和特性，但实际经过几年，很多东西都会不记得，剩下的要么就是很好的特性，要么就是不好的，比如 Golang 的错误处理，我虽然不太记得语法了，但还是记得 golang的一些名言警句：1. 不要使用共享状态来进行通信，要用通信来共享状态 2. 组合大于继承。by the way, golang 的错误处理，我还是觉得很蠢，尤其是接触到 rust 之后。
 
+所以不由引发了一些思考，语言层面，什么特性是好的，什么特性是坏的，想了想大概可能有这些点：
+- 该特性是否被诸多的编程语言所采用，那么它大概率是有其充分的理由的
+- 特性本身都是基于场景考虑的，不能用一元论来考虑它，一个东西觉得很烂，还是要去了解这个特性设计的背景以及所要解决的问题
+
 ## 3.28
 I have spent some time reading this post: https://www.gatesnotes.com/The-Age-of-AI-Has-Begun
 Although it doesn't have the technical depth, just Bill's thinking about AI when ChatGPT is open. I also learn a lot from it.
