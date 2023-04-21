@@ -1,8 +1,7 @@
 # 2023
 ## 4.21
 和老朋友聊到了 leetcode，就热血来潮看了下自己当年刷的题，发现也有不少用 golang 写的，虽然现在几乎完全不记得 golang 的语法了：‘
-
-![image](https://user-images.githubusercontent.com/38072743/233532795-d8a91bdc-fe7e-4bf5-a250-40c7eaa040d3.png)
+![image](https://user-images.githubusercontent.com/38072743/233534745-87b8adb3-9647-4ceb-bf9a-5949b4d3092c.png)
 
 编程语言这东西，学习的时候会记住很多 API 和特性，但实际经过几年，很多东西都会不记得，剩下的要么就是很好的特性，要么就是不好的，比如 Golang 的错误处理，我虽然不太记得语法了，但还是记得 golang的一些名言警句：1. 不要使用共享状态来进行通信，要用通信来共享状态 2. 组合大于继承。by the way, golang 的错误处理，我还是觉得很蠢，尤其是接触到 rust 之后。
 
