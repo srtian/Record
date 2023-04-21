@@ -13,7 +13,7 @@
 I have spent some time reading this post: https://www.gatesnotes.com/The-Age-of-AI-Has-Begun
 Although it doesn't have the technical depth, just Bill's thinking about AI when ChatGPT is open. I also learn a lot from it.
 - AI can improve the efficiency of many industries, freeing people to do things other than their own industry waiting to be done.
-- AI may be able to reduce the inequity, but it needs government or some organization to push and control it.
+- AI may be able to reduce the inequity, but it needs the government or some organization to push and control it.
 - Advances in AI will enable the creation of a personal agent. For example, health and education.
 ## 3.22
 B 端交付
