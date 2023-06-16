@@ -1,4 +1,6 @@
 # 2023
+## 6.16
+这个世界日以继夜、竭尽全力让你成为其他人，如果你想做你自己，就意味着要打一场最艰难的仗。
 ## 6.12
 Everyone is trading with their future selves.
 ## 5.02
