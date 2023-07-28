@@ -1,4 +1,10 @@
 # 2023
+## 7.28
+Why the open-source customer service mode can't get money?
+- Customer service mode has thin profits, and customers are unwilling to pay high prices for support services.
+- Customer service is difficult to scale. Customers may use the software extensively but only purchase one service.
+- customer service mode cannot achieve high-speed growth. The easier and more reliable the software is, the less users need to purchase support services.
+- It is difficult to generate early revenue in customer service mode. Start-up companies may struggle to find 100 initial users, among whom only a few may purchase services, and perhaps none at all.
 ## 6.16
 这个世界日以继夜、竭尽全力让你成为其他人，如果你想做你自己，就意味着要打一场最艰难的仗。
 ## 6.12
