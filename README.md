@@ -1,4 +1,26 @@
 # 2023
+
+## 8.07
+
+1: Eat food in the right order: veggies first, protein second and carbs at the end. Eating fibers first slows down the absorption of carbs and therefore decreases the likelihood of a glucose spike.
+
+2: Add a green starter to all your meals: The goal is to include more fiber in your meals which prevents a glucose spike.
+
+3:Stop counting calories: Foods that are high in glucose could be low in calories and food high in calories could be low in carb but more fulfilling and beneficial for our body. For example a donut and cup of yogurt both contain 150 calories but the donut will cause a glucose spike but the yogurt will not because of the protein and fat content.
+
+4: Flatten your breakfast curve: cereal with milk, fruit smoothie, muesli and fruit juice all cause a big glucose spike. A good breakfast that won't cause a glucose spike is usually savory and contains a good amount of fiber, fat, protein and optional starch and fruit. Our body is very sensitive to glucose following breakfast because it has been in a fasting state for a long time. Also, given how well maintained the glucose spike was after breakfast- our body is better able to manage the blood glucose level for the rest of the day. 
+
+5: All types of sugar are the same: Basically there is no difference between maple syrup, honey and white or brown sugar. One is not healthier than the other when it comes to causing glucose spikes. The best types of sweeteners that have no side effects on glucose and insulin levels are: Allulose, monk fruit sweetener, stevia (pure stevia extract), erythritol. Artificial sweeteners recommended to avoid are aspartame, maltitol., sucralose, xylitol, acesulfame-k.
+
+6: Pick a dessert over a sweet snack: Taking a sweet snack over an empty stomach causes glucose spikes. If you are craving something sweet, take it after a meal as a dessert.
+
+7: Reach for vinegar before you eat: Taking 1 tablespoon of vinegar in a tall glass of water taken before the meal (with a straw to avoid causing problems with tooth enamel) decreases the glucose spike. The acetic acid in vinegar temporarily deactivates alpha-amylase which is an enzyme that turns food into glucose in our body. Additionally, acetic acid encourages our muscle to take glucose faster than the bloodstream without releasing additional insulin.
+
+8: After you eat, move: Doing a 20 minutes exercise within 70 minutes after a meal is shown to reduce glucose spikes.
+
+9: If you have to snack, go savory: Most popular snacks like potato chips, granola bars etc are carb heavy and cause a glucose spike when taken as a snack.
+
+10: Put some clothes on the carb: When you have to get something on the go, choose meals that combine starches/ sugars with fat, protein and fiber. Basically putting some clothes on the carb and not taking them alone. Example, some apple/ pear with nut butter.
 ## 7.28
 Why the open-source customer service mode can't get money?
 - Customer service mode has thin profits, and customers are unwilling to pay high prices for support services.
