@@ -1,5 +1,11 @@
 # 2023
+## 8.25
+Effective > Productive
 
+Productive: We must fill our schedule and do a lot of work
+Effective: something maybe we just need to do, but the other thing we don't need to do it. so just cut it out.
+
+> so We believe in effectiveness. How little can we do? How much can we cut out? Instead of adding to-dos, we add to-don’ts.
 ## 8.07
 
 1: Eat food in the right order: veggies first, protein second and carbs at the end. Eating fibers first slows down the absorption of carbs and therefore decreases the likelihood of a glucose spike.
