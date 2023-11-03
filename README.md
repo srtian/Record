@@ -3,6 +3,10 @@
 ![image](https://github.com/srtian/Record/assets/38072743/d56a1d5e-c22d-4bcd-9c68-fd122eb3aa17)
 > https://engineercodex.substack.com/p/how-instagram-scaled-to-14-million
 
+## 10.27
+ It’s enough to just keep moving in a forward direction, without competing with anyone.
+ > 《The Courage to be disliked》
+
 ## 10.19
 #### Ten Rules to Live By to Achieve Success
 > FROM THE intp ADVISE
