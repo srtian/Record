@@ -6,8 +6,8 @@ Most often, we do not strictly define knowledge, but we align it with other rela
 Data is something represented in physical media, such as written text or spoken words. Data exists independently of human beings and can be passed between people.
 Information is how we interpret data in our head. For example, when we hear the word computer, we have some understanding of what it is.
 Knowledge is information being integrated into our world model. For example, once we learn what a computer is, we start having some ideas about how it works, how much it costs, and what it can be used for. This network of interrelated concepts forms our knowledge.
-Wisdom is yet one more level of our understanding of the world, and it represents meta-knowledge, eg. some notion on how and when the knowledge should be used.[
-https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/2-Symbolic/images/DIKW_Pyramid.png
+Wisdom is yet one more level of our understanding of the world, and it represents meta-knowledge, eg. some notion on how and when the knowledge should be used.
+<img src="https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/2-Symbolic/images/DIKW_Pyramid.png" alt="" width="30%" />
 
 > AI-For-Beginners: https://github.com/microsoft/AI-For-Beginners/tree/main
 ## 11.03
