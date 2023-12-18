@@ -1,4 +1,10 @@
 # 2023
+## 12.18
+how to remenber every thing when we reading book
+
+have a couple of goal and make sure some info that we will get from the book
+make note and highlight for book, record you thought and perspective
+when finish read , orangrize the onte, categories the notes, and if can do, just practice it
 
 ## 11.16
 Most often, we do not strictly define knowledge, but we align it with other related concepts using DIKW Pyramid. It contains the following concepts:
