@@ -1,3 +1,21 @@
+# 2024
+## 01.17
+```
+## Importance of Asking Smart Questions:
+- Open source usage has made it possible to get good answers from experienced users.
+- Treating experienced users with respect and asking thought-provoking questions is essential.
+## Preparing to Ask:
+- Hackers like hard problems and insightful questions.
+- Demonstrate that you have done your research before asking a question.
+- Display what you have learned from the research to show that you can learn from the answers.
+## Asking the Question:
+- Frame the question in a way that invites others to get involved and demonstrates respect for their abilities.
+- Avoid demanding answers and instead ask for help in a polite manner.
+## Problem-Solving Approach:
+- Encourages a problem-solving approach through research, experimentation, and seeking answers from skilled friends or the source code.
+## Building Relationships:
+- Asking the right question and listening to the answer is a great way to build relationships.
+```
 # 2023
 ## 12.18
 how to remenber every thing when we reading book
