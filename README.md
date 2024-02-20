@@ -1,4 +1,6 @@
 # 2024
+## 02.20
+找到要素，建立连接，形成系统，发现规律，建立模型，推动发展
 ## 01.17
 ```
 ## Importance of Asking Smart Questions:
