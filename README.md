@@ -1,6 +1,18 @@
 # 2024
+## 9.17
+1,000 True Fans: https://kk.org/thetechnium/1000-true-fans/
 
-## 9.16
+this is the summary:
+- Creators don't need millions of fans, they only need 1,000 true fans to make a living.
+- True fans are defined as loyal fans who will buy all of the creator's works, bringing them stable income.
+- The formula for calculating the number of true fans is: each true fan spends an average of $100 per year, 1,000 true fans generate $100,000 in annual income, which is enough to sustain most people's lives.
+- The number 1,000 is not absolute and can be adjusted according to the creator's situation, but it is much lower than the goal of millions of fans.
+- In the internet age, creators can directly connect with true fans without intermediaries, greatly reducing the difficulty of obtaining 1,000 true fans.
+- Crowdfunding is a great way to allow true fans to support creators' works in advance.
+
+  
+
+## 8.16
 ### 六顶思考帽
 六顶思考帽是由英国学者爱德华·德博诺（Edward de Bono）提出的一种思考方法。这种方法旨在通过模拟不同的思考方式来提高决策和问题解决的效率。每顶"帽子"代表一种特定的思考模式。让我们详细了解一下：
 
