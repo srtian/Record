@@ -10,6 +10,9 @@ this is the summary:
 - In the internet age, creators can directly connect with true fans without intermediaries, greatly reducing the difficulty of obtaining 1,000 true fans.
 - Crowdfunding is a great way to allow true fans to support creators' works in advance.
 
+Based on this, it is quite similar to a platform or tool. If we can get the true fans and provide them with support, it will also be sufficient. a very simply formula：
+> 1000 fans * Function（tool || platform）= performace
+
   
 
 ## 8.16
