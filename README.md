@@ -1,4 +1,16 @@
 # 2024
+## 9.25
+Here are some tips for successful refactoring:
+
+- Be incremental: Make small, manageable changes rather than sweeping rewrites.
+- Deeply understand code before doing significant refactors or new abstractions.
+- Match the existing code style: Consistency is key for maintainability.
+- Avoid too many new abstractions: Keep it simple unless complexity is truly warranted.
+- Avoid adding new libraries, especially of a very different programming style, without buy-in from the team.
+- Write tests before refactoring and update them as you go. This ensures you're maintaining the original functionality.
+- Hold your coworkers accountable to these principles.
+  ![image](https://github.com/user-attachments/assets/021189cf-004e-4a19-bea1-d76b77849956)
+
 ## 9.17
 1,000 True Fans: https://kk.org/thetechnium/1000-true-fans/
 
