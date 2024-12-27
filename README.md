@@ -1,4 +1,17 @@
 # 2024
+## 12.27
+> https://berthub.eu/articles/posts/on-long-term-software-development/
+
+how to develop the long term software:
+1. reduce the dependencies
+2. MORE TESTING
+3. reduce Complexity
+4. Write boring simple code. Even more simple than that. Even more boring.
+5. no LinkedIn-based software development
+6. Logging, telemetry, performance
+7. keep the team
+8. Be open source
+
 ## 12.14
 2023年那会儿，还在思考 Chatgpt：
 ![image](https://github.com/user-attachments/assets/707f0878-5de1-4a2e-81a3-7bd0b20e6981)
